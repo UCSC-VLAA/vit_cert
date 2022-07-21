@@ -38,4 +38,4 @@ python3 main.py \
 ```
 
 ## Acknowledgement
-This work is supported by a gift from Open Philanthropy, TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
+This repo is built on [MAE](https://github.com/facebookresearch/mae) and [smoothed-vit](https://github.com/MadryLab/smoothed-vit). And this work is supported by a gift from Open Philanthropy, TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
