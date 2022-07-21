@@ -38,4 +38,20 @@ python3 main.py \
 ```
 
 ## Acknowledgement
+<<<<<<< HEAD
 This repo is built on [MAE](https://github.com/facebookresearch/mae) and [smoothed-vit](https://github.com/MadryLab/smoothed-vit). And this work is supported by a gift from Open Philanthropy, TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
+=======
+This repo is built on [MAE](https://github.com/facebookresearch/mae) and [smoothed-vit](https://github.com/MadryLab/smoothed-vit). And this work is supported by a gift from Open Philanthropy, TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
+
+
+## Citation
+
+```
+@inproceedings{li2022vip,
+  title     = {ViP: Unified Certified Detection and Recovery for Patch Attack with Vision Transformers}, 
+  author    = {Junbo Li and Huan Zhang and Cihang Xie},
+  booktitle = {ECCV},
+  year      = {2022},
+}
+```
+>>>>>>> 40fcb73481ebd483714ef5be8e75b21322b18e8b
