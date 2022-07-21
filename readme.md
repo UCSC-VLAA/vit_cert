@@ -51,4 +51,3 @@ This repo is built on [MAE](https://github.com/facebookresearch/mae) and [smooth
   year      = {2022},
 }
 ```
->>>>>>> 40fcb73481ebd483714ef5be8e75b21322b18e8b
