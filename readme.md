@@ -39,3 +39,15 @@ python3 main.py \
 
 ## Acknowledgement
 This work is supported by a gift from Open Philanthropy, TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
+
+
+## Citation
+
+```
+@inproceedings{li2022vip,
+  title     = {ViP: Unified Certified Detection and Recovery for Patch Attack with Vision Transformers}, 
+  author    = {Junbo Li and Huan Zhang and Cihang Xie},
+  booktitle = {ECCV},
+  year      = {2022},
+}
+```
